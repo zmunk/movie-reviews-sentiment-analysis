@@ -1,3 +1,3 @@
-# Kaggle movie reviews sentiment analysis using a neural network
+# Sentiment analysis using a neural network
 
-https://www.kaggle.com/c/sentiment-analysis-on-movie-reviews/leaderboard#score
+[Kaggle Sentiment Analysis on Movie Reviews](https://www.kaggle.com/c/sentiment-analysis-on-movie-reviews/leaderboard#score
